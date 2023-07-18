@@ -1,0 +1,10 @@
+formno:6532
+religion:Christian
+category:Other
+income:1500-2500$
+education:Post-Graduate
+occupation:Salaried
+pan:AAA14
+addhar:AAABBBCC22
+scitizen:No
+eaccount:No

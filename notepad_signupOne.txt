@@ -1,0 +1,11 @@
+formno:6532
+name:Tsvetomir Petrov
+fname:Milenov
+dob:5.11.2001 г.
+gender:Male
+email:tanoth2001@abv.bg
+marital:Other
+address:Ulica "Studen Kladenec" 14
+city:RUSE
+pincode:RUSE
+state:RUSE
